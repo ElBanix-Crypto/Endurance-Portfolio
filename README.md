@@ -1,6 +1,6 @@
 # Endurance Portfolio
 
-A modern, responsive portfolio website for Endurance Banigo, showcasing his skills as a Tech Creative and Digital Strategist.
+A modern, responsive portfolio website for Endurance Banigo, showcasing her skills as a Tech Creative and Digital Strategist.
 
 ## Features
 
@@ -13,6 +13,8 @@ A modern, responsive portfolio website for Endurance Banigo, showcasing his skil
 ## Technologies Used
 
 - HTML5
+- CSS
+  
 - CSS3 (with CSS Variables for theming)
 - JavaScript (for interactivity)
 
